@@ -1,0 +1,19 @@
+# Common binary output files
+*.o
+*.out
+*.exe
+*.elf
+*.bin
+*.hex
+*.a
+*.so
+*.dll
+
+# Assembly-specific
+*.lst
+*.map
+
+# C/C++ build system artifacts
+*.d
+*.obj
+*.pdb
